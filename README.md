@@ -18,9 +18,9 @@
 
 ---
 
-<br/>
 
-<img align="right" src="https://i.pinimg.com/originals/eb/ec/d4/ebecd4010e549f33371d741d46b9b607.gif" width="420" height="260"/>
+
+<img align="right" src="https://i.pinimg.com/originals/eb/ec/d4/ebecd4010e549f33371d741d46b9b607.gif" width="420"/>
 
 ### 🌿 &nbsp; about me
 
