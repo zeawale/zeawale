@@ -24,7 +24,7 @@
 
 ### 🌿 &nbsp; about me
 
-hey — i'm **Nika**, a 19 y.o. fullstack developer from Saint Petersburg 🌧️  
+hey — i'm **Nika**, a 19 y.o. fullstack developer from Saint Petersburg  
 
 - 🎓 &nbsp; studying **SPbSUT** (Bonch-Bruevich University)
 - 🚀 &nbsp; certified fullstack dev — **Yandex Practicum**
